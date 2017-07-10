@@ -1,0 +1,10 @@
+C:\Users\praisekek\OneDrive\Employment\Important\nice\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\praisekek\OneDrive\Employment\Important\nice\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\praisekek\OneDrive\Employment\Important\nice\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\Employment\Important\nice\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\praisekek\OneDrive\Employment\Important\nice\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
